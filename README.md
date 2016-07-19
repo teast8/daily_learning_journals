@@ -1,2 +1,2 @@
-# daily_learning_journals
-Learning Journal for Code 201 
+# Daily Learning Journals
+Learning Journal for Code 201
