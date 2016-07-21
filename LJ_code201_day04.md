@@ -15,6 +15,7 @@ Work with this by Sandboxing...
 Wireframing
 When building things, make a sketch of what I actually want the page to look like, Containers...
 
+<!--Wire Framing -->
 <body>
   <header>
     <h1></h1>
@@ -32,3 +33,5 @@ When building things, make a sketch of what I actually want the page to look lik
 <p>.......</p>
 </footer>
 </body>
+
+<!--Play around in console! Pull code and go to work.... Get a good command of functions and a good handle on Javascript. Function Demo in Day 4   -->
