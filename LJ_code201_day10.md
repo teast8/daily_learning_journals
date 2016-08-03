@@ -1,4 +1,4 @@
-# LJ Code 201 Day - 9
+# LJ Code 201 Day - 10
 
 “Tell me and I forget Teach me and I remember. Involve me and I learn.”
 
@@ -25,4 +25,4 @@ git pull upstream master (to sync with master repo on GH)
 But, how does P2 get their github repo in sync with the other 3?
 git push origin master
 
-Also we talked about advanced layout for CSS... 
+Also we talked about advanced layout for CSS...
